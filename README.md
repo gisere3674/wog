@@ -1,3 +1,6 @@
+Original Repo: https://titlee2111.github.io/war-of-genesis-helper/
+
+
 # ⚔️ War of Genesis: Idle Loot — All-in-One Companion & Database Explorer
 
 > **The ultimate web-based companion, database explorer, and optimization suite for *The War of Genesis: Idle Loot* (Steam / PC).**  
